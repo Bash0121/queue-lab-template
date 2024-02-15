@@ -4,7 +4,7 @@ class Queue():
 
     #REMOVE PASS AND COMPLETE THE FUNCTION
     def push(self, card):
-        pass
+        self.cards.append(card)
 
     #REMOVE PASS AND COMPLETE THE FUNCTION
     def pop(self):
